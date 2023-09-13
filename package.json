@@ -1,0 +1,15 @@
+{
+  "name": "jest-practi",
+  "version": "1.0.0",
+  "description": "I use it as an index for looking for methods and examples",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
